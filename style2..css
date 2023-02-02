@@ -1,0 +1,8 @@
+.div-content .div-item {
+    display: inline-block;
+    
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    margin-top: 10px;
+}

@@ -1,0 +1,12 @@
+
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: first baseline ;
+    background-color: yellow;
+    height: 300px;
+}
+
+.flex-item {
+    background-color: red
+}
