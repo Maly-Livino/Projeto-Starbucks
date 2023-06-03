@@ -94,12 +94,12 @@ section .extra {
 }
 
 .extra img{
-     widht:300px;
-            top:-15px;
-            position:absolute;
-            bottom:150px;
-            left: -170px;
-            height:650px;
+     widht:150vh;
+     top:-15px;
+     position:absolute;
+     bottom:150px;
+     left: -170px;
+     height:650px;
 }
 
 .social-media {
