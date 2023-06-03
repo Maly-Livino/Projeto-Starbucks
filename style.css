@@ -93,6 +93,15 @@ section .extra {
     right: -450px;
 }
 
+.extra img{
+     widht:300px;
+            top:-15px;
+            position:absolute;
+            bottom:150px;
+            left: -170px;
+            height:650px;
+}
+
 .social-media {
     position: absolute; 
     right: 470px;
